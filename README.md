@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Zamur650
+- 👀 I’m interested in js
+- 🌱 I’m currently learning c++
+- 💞️ I’m looking to collaborate on js discord bot
+- 📫 How to reach me discord: Алексiй#5027
