@@ -1,4 +1,4 @@
-![Zamur650's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zamur650&show_icons=true&theme=dark&)
+![Zamur650's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zamur650&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zamur650&show_icons=true&theme=dark&layout=compact)](https://github.com/Zamur650/github-readme-stats)
 
