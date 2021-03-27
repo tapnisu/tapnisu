@@ -1,4 +1,4 @@
-[![Header](https://github.com/Zamur650/Zamur650/blob/master/assets/header.png)](https://www.youtube.com/channel/UC-8PllPkjOrFCX-_zDriTJQ)
+[![Header](https://github.com/Zamur650/Zamur650/blob/main/assets/header.png)](https://zamur650.github.io/)
 
 ![Zamur650's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zamur650&show_icons=true&theme=dark&)
 
