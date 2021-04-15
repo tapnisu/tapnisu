@@ -2,6 +2,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zamur650&show_icons=true&theme=dark&layout=compact)](https://github.com/Zamur650/github-readme-stats)
 
+[![Zamur650.github.io](https://github-readme-stats.vercel.app/api/pin/?username=Zamur650&repo=Zamur650.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![pkmshowdownbot](https://github-readme-stats.vercel.app/api/pin/?username=Zamur650&repo=pkmshowdownbot&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## I'm a programmer
 
 ### Languages and Tools:
