@@ -1,11 +1,4 @@
-![Zamur650's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zamur650&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zamur650&show_icons=true&theme=dark&layout=compact)](https://github.com/Zamur650/github-readme-stats)
-
-[![Zamur650.github.io](https://github-readme-stats.vercel.app/api/pin/?username=Zamur650&repo=Zamur650.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![pkmshowdownbot](https://github-readme-stats.vercel.app/api/pin/?username=Zamur650&repo=pkmshowdownbot&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## I'm a programmer
+## I'm a programmer :)
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
