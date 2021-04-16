@@ -1,5 +1,8 @@
 ## I'm a programmer :)
 
+### Friends
+[@Bananchik204](https://github.com/Bananchik204)
+
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=E9D54D)
