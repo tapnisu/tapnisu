@@ -1,4 +1,9 @@
+# Alexiy Rubin
+
+![Furret](furret.gif)
 ## 🙂 About 🙂
+
+
 
 * Name: Alexiy
 * Gender: Brick (boy)
