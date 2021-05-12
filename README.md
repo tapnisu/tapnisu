@@ -1,13 +1,12 @@
 # Alexiy Rubin
 
 ![Furret](furret.gif)
+
 ## 🙂 About 🙂
-
-
 
 * Name: Alexiy
 * Gender: Brick (boy)
-* Hobbys: Programming
+* Hobbies: Programming
 
 ### 🧑‍🤝‍🧑 Friends 🧑‍🤝‍🧑
 [@Bananchik204](https://github.com/Bananchik204)
