@@ -33,5 +33,6 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-4F7DB3?style=for-the-badge&logo=Vk&logoColor=FFFFFF)](https://vk.com/rubin_alexey)
 [![Twitter](https://img.shields.io/badge/-Twitter-1C9DEB?style=for-the-badge&logo=Twitter&logoColor=FFFFFF)](https://twitter.com/zamur650)
 [![Facebook](https://img.shields.io/badge/-Facebook-1195F5?style=for-the-badge&logo=Facebook&logoColor=FFFFFF)](https://www.facebook.com/Zamur650)
+[![Messenger](https://img.shields.io/badge/-Messenger-BF3DD5?style=for-the-badge&logo=Messenger&logoColor=FFFFFF)](https://m.me/zamur650)
 [![Discord](https://img.shields.io/badge/-Discord-6f84d2?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](https://dsc.bio/zamur)
 [![Mail](https://img.shields.io/badge/-Mail-31a8ff?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:alexiy_r@mail.ru)
