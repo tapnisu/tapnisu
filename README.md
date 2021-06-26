@@ -1,6 +1,6 @@
 # Alexiy Rubin
 
-[![Furret](furret.gif)](https://youtu.be/ih9zBLDr_to)
+[![Furret](furret.gif)](https://youtu.be/ih9zBLDr_ro)
 
 ## 🙂 About 🙂
 
