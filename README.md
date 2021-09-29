@@ -1,4 +1,4 @@
-# Alexiy Rubin
+# Alexiy Rybin
 
 [![Furret](furret.gif)](https://youtu.be/ih9zBLDr_ro)
 
@@ -25,7 +25,7 @@
 ### 📝 Social networks 📝
 
 [![YouTube](https://img.shields.io/badge/-YouTube-FF5555?style=for-the-badge&logo=YouTube&logoColor=FFFFFF)](https://www.youtube.com/channel/UCkr6i6Gnv5ESl8532iLLwDw)
-[![Telegram](https://img.shields.io/badge/-Telegram-27A0D9?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)](https://t.me/AlexR650)
+[![Telegram](https://img.shields.io/badge/-Telegram-27A0D9?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)](https://t.me/AlexiyRybin)
 [![Instagram](https://img.shields.io/badge/-Instagram-CF53B4?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/zamur_mur)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-4F7DB3?style=for-the-badge&logo=Vk&logoColor=FFFFFF)](https://vk.com/rubin_alexey)
 [![Twitter](https://img.shields.io/badge/-Twitter-1C9DEB?style=for-the-badge&logo=Twitter&logoColor=FFFFFF)](https://twitter.com/zamur650)
@@ -37,6 +37,3 @@
 ## Stats
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=Zamur650&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=00FF66&icon_color=00FF66&text_color=40bf73)](https://github.com/Zamur650)
-
-[![github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Zamur650&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=00FF66&icon_color=00FF66&text_color=40bf73)](https://github.com/Zamur650)
-
