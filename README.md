@@ -15,5 +15,5 @@
 ## Links
 
 [![Telegram](https://img.shields.io/badge/-Telegram-27A0D9?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)](https://t.me/AlexiyRybin)
-[![Twitter](https://img.shields.io/badge/-Twitter-1C9DEB?style=for-the-badge&logo=Twitter&logoColor=FFFFFF)](https://twitter.com/zamur650)
+[![Twitter](https://img.shields.io/badge/-Twitter-1C9DEB?style=for-the-badge&logo=Twitter&logoColor=FFFFFF)](https://twitter.com/alexiy_rybin)
 [![Mail](https://img.shields.io/badge/-Mail-FF5555?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:alexiy.rybin@gmail.com)
