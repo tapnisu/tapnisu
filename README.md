@@ -4,6 +4,7 @@
 
 [@Bananchik204](https://github.com/Bananchik204)
 [@Evgeny](https://github.com/itsLameni)
+[@uwussimo UwU](https://github.com/uwussimo)
 
 ## Knowledge
 
