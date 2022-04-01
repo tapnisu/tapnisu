@@ -1,6 +1,6 @@
-### Zamur650.md
+### uwury.md
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zamur650&langs_count=10&layout=compact&title_color=1C9DEB&text_color=1C9DEB&bg_color=00000000&hide_border=true" alt="Github Readme Stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=uwury&langs_count=10&layout=compact&title_color=1C9DEB&text_color=1C9DEB&bg_color=00000000&hide_border=true" alt="Github Readme Stats" />
 
 * Friends
 
