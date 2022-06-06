@@ -20,4 +20,5 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-222222?style=for-the-badge&logo=Telegram&logoColor=639ab6)](https://t.me/AlexiyRybin)
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=for-the-badge&logo=Twitter&logoColor=6396b6)](https://twitter.com/alexiy_rybin)
+[![Discord](https://img.shields.io/badge/-Discord-222222?style=for-the-badge&logo=Discord&logoColor=636ab6)](https://discord.com/users/586128640136445964)
 [![Mail](https://img.shields.io/badge/-Mail-222222?style=for-the-badge&logo=gmail&logoColor=b66467)](mailto:alexiy.rybin@gmail.com)
