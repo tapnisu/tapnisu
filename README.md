@@ -1,6 +1,6 @@
-# UwUry.md
+# tapiris.md
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=uwury&langs_count=5&title_color=8c977d&text_color=8c977d&bg_color=222222&border_color=8c977d55&border_radius=25" alt="Github Readme Stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tapiris&langs_count=5&title_color=8c977d&text_color=8c977d&bg_color=00000000&border_color=8c977d55&border_radius=25" alt="Github Readme Stats" />
 
 * Friends
 
