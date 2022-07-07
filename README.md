@@ -1,6 +1,6 @@
-# teirisu.md
+# taerisu.md
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=teirisu&langs_count=5&title_color=8c977d&text_color=8c977d&bg_color=00000000&border_color=8c977d55&border_radius=25" alt="Github Readme Stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=taerisu&langs_count=5&title_color=8c977d&text_color=8c977d&bg_color=00000000&border_color=8c977d55&border_radius=25" alt="Github Readme Stats" />
 
 * Friends
 
@@ -19,6 +19,6 @@
 * Links
 
 [![Telegram](https://img.shields.io/badge/-Telegram-222222?style=for-the-badge&logo=Telegram&logoColor=639ab6)](https://t.me/AlexiyRybin)
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=for-the-badge&logo=Twitter&logoColor=6396b6)](https://twitter.com/te1risu)
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=for-the-badge&logo=Twitter&logoColor=6396b6)](https://twitter.com/taerisu_)
 [![Discord](https://img.shields.io/badge/-Discord-222222?style=for-the-badge&logo=Discord&logoColor=636ab6)](https://discord.com/users/586128640136445964)
 [![Mail](https://img.shields.io/badge/-Mail-222222?style=for-the-badge&logo=gmail&logoColor=b66467)](mailto:alexiy.rybin@gmail.com)
