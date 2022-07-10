@@ -4,7 +4,9 @@
 
 <div align=right>
 
-  Currently, I am learning Rust.
+  ## About
+
+  I am making lots of discord bots. Currently, I am learning Rust.
 
   <h2>Friends</h2>
 
