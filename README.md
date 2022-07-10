@@ -16,11 +16,11 @@
 
   ## Tools that I use
 
-  ![HTML](https://img.shields.io/badge/-HTML5-222222?style=for-the-badge&logo=html5&logoColor=b67663)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=for-the-badge&logo=JavaScript&logoColor=b6ac63)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=for-the-badge&logo=TypeScript&logoColor=638bb6)
-  ![Python](https://img.shields.io/badge/-Python-222222?style=for-the-badge&logo=Python&logoColor=6390b6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=for-the-badge&logo=JavaScript&logoColor=b6ac63)
   ![Rust](https://img.shields.io/badge/-Rust-222222?style=for-the-badge&logo=Rust&logoColor=97857d)
+  ![Vite](https://img.shields.io/badge/-Vite-222222?style=for-the-badge&logo=Vite&logoColor=837d97)
+  ![HTML](https://img.shields.io/badge/-HTML5-222222?style=for-the-badge&logo=html5&logoColor=b67663)
 
   ## Contacts
 
