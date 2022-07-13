@@ -13,6 +13,7 @@
   [![@Bananchik204](https://img.shields.io/badge/-Bananchik204-222222?style=for-the-badge)](https://github.com/Bananchik204)
   [![@Evgeny](https://img.shields.io/badge/-Evgeny-222222?style=for-the-badge)](https://github.com/itsLameni)
   [![@UwUssimo Robinson](https://img.shields.io/badge/-UwUssimo%20Robinson-222222?style=for-the-badge)](https://github.com/uwussimo)
+  [![@chelbaev-danil](https://img.shields.io/badge/-chelbaev%20danil-222222?style=for-the-badge)](https://github.com/chelbaev-danil)
 
   ## Tools that I use
 
