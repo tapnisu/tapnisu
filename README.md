@@ -1,4 +1,4 @@
-# taerisu.md
+# tapnisu.md
 
 <img align="left" width=400px src="https://avatars.githubusercontent.com/u/57483029?v=4" alt="Avatar" style="border-radius: 25%" />
 
