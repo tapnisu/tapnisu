@@ -20,11 +20,12 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=for-the-badge&logo=TypeScript&logoColor=638bb6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=for-the-badge&logo=JavaScript&logoColor=b6ac63)
   ![Rust](https://img.shields.io/badge/-Rust-222222?style=for-the-badge&logo=Rust&logoColor=97857d)
-  ![Vite](https://img.shields.io/badge/-Vite-222222?style=for-the-badge&logo=Vite&logoColor=837d97)
-  ![HTML](https://img.shields.io/badge/-HTML5-222222?style=for-the-badge&logo=html5&logoColor=b67663)
+  ![Next.js](https://img.shields.io/badge/-Next.js-222222?style=for-the-badge&logo=Next.js&logoColor=e8e3e3)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-222222?style=for-the-badge&logo=TailwindCSS&logoColor=8dacb9)
 
   ## Contacts
 
+  [![Website](https://img.shields.io/badge/-Website-222222?style=for-the-badge&logo=HTML5&logoColor=b66371)](https://rybin.vercel.app)
   [![Telegram](https://img.shields.io/badge/-Telegram-222222?style=for-the-badge&logo=Telegram&logoColor=639ab6)](https://t.me/AlexiyRybin)
   [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=for-the-badge&logo=Twitter&logoColor=6396b6)](https://twitter.com/tapnisu)
   [![Discord](https://img.shields.io/badge/-Discord-222222?style=for-the-badge&logo=Discord&logoColor=636ab6)](https://discord.com/users/586128640136445964)
