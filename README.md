@@ -24,7 +24,7 @@ Most of the time i am making Discord bots. Currently, I am trying to learn Rust.
 <h2>Contacts</h2>
 
 [![Website](https://img.shields.io/badge/-Website-090909?style=for-the-badge&logo=HTML5&logoColor=b66371)](https://tapni.su)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=639ab6)](https://t.me/AlexiyRybin)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=639ab6)](https://t.me/tapnisu)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=6396b6)](https://twitter.com/tapnisu)
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=636ab6)](https://discord.com/users/586128640136445964)
 [![Mail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=gmail&logoColor=b66467)](mailto:alexiy.rybin@gmail.com)
