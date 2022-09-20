@@ -4,7 +4,7 @@
 
 <h2>About</h2>
 
-Most of the time i am making Discord bots. Currently, I am trying to learn Rust.
+Most of the time I am making Discord bots. Currently, I am trying to learn Rust.
 
 <h2>Friends</h2>
 
