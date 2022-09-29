@@ -4,7 +4,7 @@
 
 <h2>About</h2>
 
-Most of the time I am making Discord bots. Currently, I am trying to learn Rust.
+I am 14 years old. Most of the time I am making Discord bots. Currently, I am learning Rust.
 
 <h2>Friends</h2>
 
