@@ -8,7 +8,7 @@ I am 14 years old. Most of the time I am making Discord bots. Currently, I am le
 
 <h2>Friends</h2>
 
-[![@Bananchik204](https://img.shields.io/badge/-Bananchik204-090909?style=for-the-badge)](https://github.com/Bananchik204)
+[![@askiphy](https://img.shields.io/badge/-Sergey%20Fomchukov-090909?style=for-the-badge)](https://github.com/askiphy)
 [![@Evgeny](https://img.shields.io/badge/-Evgeny-090909?style=for-the-badge)](https://github.com/itsLameni)
 [![@UwUssimo Robinson](https://img.shields.io/badge/-UwUssimo%20Robinson-090909?style=for-the-badge)](https://github.com/uwussimo)
 [![@chelbaev-danil](https://img.shields.io/badge/-chelbaev%20danil-090909?style=for-the-badge)](https://github.com/chelbaev-danil)
