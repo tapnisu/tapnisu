@@ -1,10 +1,11 @@
-<div align="center">
-  <img width=256px src="https://avatars.githubusercontent.com/u/57483029?v=4" alt="Avatar" />
-  <h1>Alexiy Rybin</h1>
+<img width=256px src="https://avatars.githubusercontent.com/u/57483029?v=4" alt="Avatar" />
+<h1>Alexiy Rybin</h1>
 
 <h2>About</h2>
 
-I am 14 years old. Most of the time I am making Discord bots. Currently, I am learning Rust.
+14 years old programmer that makes lots of ascii arts :D
+
+Currently, I am learning Rust.
 
 <h2>Friends</h2>
 
@@ -28,5 +29,3 @@ I am 14 years old. Most of the time I am making Discord bots. Currently, I am le
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=6396b6)](https://twitter.com/tapnisu)
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=636ab6)](https://discord.com/users/586128640136445964)
 [![Mail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=gmail&logoColor=b66467)](mailto:alexiy.rybin@gmail.com)
-
-</div>
