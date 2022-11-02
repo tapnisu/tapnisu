@@ -3,7 +3,7 @@
 
 <h2>About</h2>
 
-14 years old programmer that makes lots of ascii arts :D
+15 years old programmer that makes lots of ascii arts :D
 
 Currently, I am learning Rust.
 
