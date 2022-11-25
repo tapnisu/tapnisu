@@ -1,4 +1,3 @@
-<img width=256px src="https://avatars.githubusercontent.com/u/57483029?v=4" alt="Avatar" />
 <h1>Alexiy Rybin</h1>
 
 <h2>About</h2>
