@@ -13,6 +13,8 @@ Currently, I am learning Rust.
 [![@Evgeny](https://img.shields.io/badge/-Evgeny-090909?style=for-the-badge)](https://github.com/itsLameni)
 [![@UwUssimo Robinson](https://img.shields.io/badge/-UwUssimo%20Robinson-090909?style=for-the-badge)](https://github.com/uwussimo)
 [![@chelbaev-danil](https://img.shields.io/badge/-chelbaev%20danil-090909?style=for-the-badge)](https://github.com/chelbaev-danil)
+[![@akumawu](https://img.shields.io/badge/-akumawu-090909?style=for-the-badge)](https://github.com/akumawu)
+
 
 <h2>Tools that I use</h2>
 
