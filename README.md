@@ -19,7 +19,7 @@ Currently, I am learning Rust.
 
 ![Rust](https://img.shields.io/badge/-Rust-090909?style=for-the-badge&logo=Rust&logoColor=97857d)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=638bb6)
-![Deno](https://img.shields.io/badge/-Deno%20CSS-090909?style=for-the-badge&logo=Deno&logoColor=ffffff)
+![Deno](https://img.shields.io/badge/-Deno-090909?style=for-the-badge&logo=Deno&logoColor=ffffff)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-090909?style=for-the-badge&logo=TailwindCSS&logoColor=8dacb9)
 
 <h2>Contacts</h2>
