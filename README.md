@@ -1,32 +1,30 @@
-<h1>Alexiy Rybin</h1>
+<p align="center">
+    <img src="./assets/ohhi.png" alt="Oh hi!">
+</p>
 
-<h2>About</h2>
+<h2 align="center">Friends</h2>
+<p align="center">
+<a href="https://github.com/askiphy"><img src="https://img.shields.io/badge/-Sergey%20Fomchukov-000000?style=for-the-badge" alt="@askiphy"></a>
+<a href="https://github.com/itsLameni"><img src="https://img.shields.io/badge/-Evgeny-000000?style=for-the-badge" alt="@Evgeny"></a>
+<a href="https://github.com/katsuki-yuri"><img src="https://img.shields.io/badge/-Yūri%20Katsuki-000000?style=for-the-badge" alt="@Yūri Katsuki"></a>
+<a href="https://github.com/uwussimo"><img src="https://img.shields.io/badge/-UwUssimo%20Robinson-000000?style=for-the-badge" alt="@UwUssimo Robinson"></a>
+<a href="https://github.com/chelbaev-danil"><img src="https://img.shields.io/badge/-chelbaev%20danil-000000?style=for-the-badge" alt="@chelbaev-danil"></a>
+<a href="https://github.com/akumawu"><img src="https://img.shields.io/badge/-akumawu-000000?style=for-the-badge" alt="@akumawu"></a>
+</p>
 
-15 years old programmer that makes lots of ascii arts :D
+<h2 align="center">Tools</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=Rust&logoColor=ffffff" alt="Rust">
+<img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=ffffff" alt="TypeScript"></a>
+<img src="https://img.shields.io/badge/-Deno-000000?style=for-the-badge&logo=Deno&logoColor=ffffff" alt="Deno"></a>
+<img src="https://img.shields.io/badge/-Tailwind%20CSS-000000?style=for-the-badge&logo=TailwindCSS&logoColor=ffffff" alt="Tailwind CSS"></a>
+</p>
 
-Currently, I am learning Rust.
-
-<h2>Friends</h2>
-
-[![@askiphy](https://img.shields.io/badge/-Sergey%20Fomchukov-090909?style=for-the-badge)](https://github.com/askiphy)
-[![@Evgeny](https://img.shields.io/badge/-Evgeny-090909?style=for-the-badge)](https://github.com/itsLameni)
-[![@Yūri Katsuki](https://img.shields.io/badge/-Yūri%20Katsuki-090909?style=for-the-badge)](https://github.com/katsuki-yuri)
-[![@UwUssimo Robinson](https://img.shields.io/badge/-UwUssimo%20Robinson-090909?style=for-the-badge)](https://github.com/uwussimo)
-[![@chelbaev-danil](https://img.shields.io/badge/-chelbaev%20danil-090909?style=for-the-badge)](https://github.com/chelbaev-danil)
-[![@akumawu](https://img.shields.io/badge/-akumawu-090909?style=for-the-badge)](https://github.com/akumawu)
-
-
-<h2>Tools that I use</h2>
-
-![Rust](https://img.shields.io/badge/-Rust-090909?style=for-the-badge&logo=Rust&logoColor=97857d)
-![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=638bb6)
-![Deno](https://img.shields.io/badge/-Deno-090909?style=for-the-badge&logo=Deno&logoColor=ffffff)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-090909?style=for-the-badge&logo=TailwindCSS&logoColor=8dacb9)
-
-<h2>Contacts</h2>
-
-[![Website](https://img.shields.io/badge/-Tapni.su-090909?style=for-the-badge&logo=HTML5&logoColor=b66371)](https://tapni.su)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=639ab6)](https://t.me/tapnisu)
-[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=6396b6)](https://twitter.com/tapnisu)
-[![Discord](https://img.shields.io/badge/-Discord:%20tapnisu%237384-090909?style=for-the-badge&logo=Discord&logoColor=636ab6)](https://discord.com/users/586128640136445964)
-[![Mail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=gmail&logoColor=b66467)](mailto:alexiy.rybin@gmail.com)
+<h2 align="center">Contacts</h2>
+<p align="center">
+<a href="https://tapni.su"><img src="https://img.shields.io/badge/-Tapni.su-000000?style=for-the-badge&logo=HTML5&logoColor=ffffff" alt="Website"></a>
+<a href="https://t.me/tapnisu"><img src="https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=ffffff" alt="Telegram"></a>
+<a href="https://twitter.com/tapnisu"><img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=ffffff" alt="Twitter"></a>
+<a href="https://discord.com/users/586128640136445964"><img src="https://img.shields.io/badge/-Discord:%20tapnisu%237384-000000?style=for-the-badge&logo=Discord&logoColor=ffffff" alt="Discord"></a>
+<a href="mailto:alexiy.rybin@gmail.com"><img src="https://img.shields.io/badge/-Mail-000000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Mail"></a>
+</p>
