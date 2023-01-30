@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-000000?style=for-the-badge&logo=TailwindCSS&logoColor=ffffff" alt="Tailwind CSS"></a>
 </p>
 
-<h2 align="center">Contact me! >_<</h2>
+<h2 align="center">Contact me >_<</h2>
 <p align="center">
 <a href="https://tapni.su"><img src="https://img.shields.io/badge/-Tapni.su-000000?style=for-the-badge&logo=HTML5&logoColor=ffffff" alt="Website"></a>
 <a href="https://t.me/tapnisu"><img src="https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=ffffff" alt="Telegram"></a>
