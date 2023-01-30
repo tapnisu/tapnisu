@@ -3,6 +3,7 @@
 </p>
 
 <h2 align="center">Friends</h2>
+<h3 align="center">(〃￣︶￣)人(￣︶￣〃)</h3>
 <p align="center">
 <a href="https://github.com/askiphy"><img src="https://img.shields.io/badge/-Sergey%20Fomchukov-000000?style=for-the-badge" alt="@askiphy"></a>
 <a href="https://github.com/itsLameni"><img src="https://img.shields.io/badge/-Evgeny-000000?style=for-the-badge" alt="@Evgeny"></a>
@@ -12,7 +13,7 @@
 <a href="https://github.com/akumaru69"><img src="https://img.shields.io/badge/-akumaru69-000000?style=for-the-badge" alt="@akumawu"></a>
 </p>
 
-<h2 align="center">Tools</h2>
+<h2 align="center">Tools ☭</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=Rust&logoColor=ffffff" alt="Rust">
 <img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=ffffff" alt="TypeScript"></a>
@@ -20,7 +21,7 @@
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-000000?style=for-the-badge&logo=TailwindCSS&logoColor=ffffff" alt="Tailwind CSS"></a>
 </p>
 
-<h2 align="center">Contacts</h2>
+<h2 align="center">Contact me! >_<</h2>
 <p align="center">
 <a href="https://tapni.su"><img src="https://img.shields.io/badge/-Tapni.su-000000?style=for-the-badge&logo=HTML5&logoColor=ffffff" alt="Website"></a>
 <a href="https://t.me/tapnisu"><img src="https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=ffffff" alt="Telegram"></a>
