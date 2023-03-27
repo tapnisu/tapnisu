@@ -10,7 +10,7 @@
 <a href="https://github.com/katsuki-yuri"><img src="https://img.shields.io/badge/-Yūri%20Katsuki-000000?style=for-the-badge" alt="@Yūri Katsuki"></a>
 <a href="https://github.com/uwussimo"><img src="https://img.shields.io/badge/-UwUssimo%20Robinson-000000?style=for-the-badge" alt="@UwUssimo Robinson"></a>
 <a href="https://github.com/chelbaev-danil"><img src="https://img.shields.io/badge/-chelbaev%20danil-000000?style=for-the-badge" alt="@chelbaev-danil"></a>
-<a href="https://github.com/akumaru69"><img src="https://img.shields.io/badge/-akumaru69-000000?style=for-the-badge" alt="@akumaru69"></a>
+<a href="https://github.com/triistam"><img src="https://img.shields.io/badge/-Triistam-000000?style=for-the-badge" alt="@triistam"></a>
 </p>
 
 <h2 align="center">Tools ☭</h2>
