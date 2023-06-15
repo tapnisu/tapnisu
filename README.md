@@ -26,6 +26,6 @@
 <a href="https://tapni.su"><img src="https://img.shields.io/badge/-Tapni.su-000000?style=for-the-badge&logo=HTML5&logoColor=ffffff" alt="Website"></a>
 <a href="https://tapni.su/telegram"><img src="https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=ffffff" alt="Telegram"></a>
 <a href="https://tapni.su/twitter"><img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=ffffff" alt="Twitter"></a>
-<a href="https://tapni.su/discord"><img src="https://img.shields.io/badge/-Discord:%20tapnisu%230001-000000?style=for-the-badge&logo=Discord&logoColor=ffffff" alt="Discord"></a>
+<a href="https://tapni.su/discord"><img src="https://img.shields.io/badge/-Discord:%20tapnisu-000000?style=for-the-badge&logo=Discord&logoColor=ffffff" alt="Discord"></a>
 <a href="https://tapni.su/email"><img src="https://img.shields.io/badge/-Mail-000000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Mail"></a>
 </p>
