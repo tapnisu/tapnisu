@@ -6,6 +6,7 @@
 <h3 align="center">(〃￣︶￣)人(￣︶￣〃)</h3>
 <p align="center">
 <a href="https://github.com/askiphy"><img src="https://img.shields.io/badge/-Sergey%20Fomchukov-000000?style=for-the-badge" alt="@askiphy"></a>
+<a href="https://github.com/astrofox09"><img src="https://img.shields.io/badge/-astrofox09-000000?style=for-the-badge" alt="@astrofox09"></a>
 <a href="https://github.com/itsLameni"><img src="https://img.shields.io/badge/-Evgeny-000000?style=for-the-badge" alt="@Evgeny"></a>
 <a href="https://github.com/katsuki-yuri"><img src="https://img.shields.io/badge/-Yūri%20Katsuki-000000?style=for-the-badge" alt="@Yūri Katsuki"></a>
 <a href="https://github.com/uwussimo"><img src="https://img.shields.io/badge/-UwUssimo%20Robinson-000000?style=for-the-badge" alt="@UwUssimo Robinson"></a>
