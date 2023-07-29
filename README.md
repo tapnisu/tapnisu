@@ -1,9 +1,4 @@
-<p align="center">
-    <img src="./assets/ohhi.png" alt="Oh hi!">
-</p>
-
 <h2 align="center">Friends</h2>
-<h3 align="center">(〃￣︶￣)人(￣︶￣〃)</h3>
 <p align="center">
 <a href="https://github.com/askiphy"><img src="https://img.shields.io/badge/-Sergey%20Fomchukov-000000?style=for-the-badge" alt="@askiphy"></a>
 <a href="https://github.com/astrofox09"><img src="https://img.shields.io/badge/-astrofox09-000000?style=for-the-badge" alt="@astrofox09"></a>
