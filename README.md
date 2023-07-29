@@ -12,6 +12,8 @@
 <p align="center">
 <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=Rust&logoColor=ffffff" alt="Rust">
 <img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=ffffff" alt="TypeScript">
+<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js">
+<img src="https://img.shields.io/badge/-Tailwind%20CSS-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="tailwindcss">
 </p>
 
 <h2 align="center">Contact me</h2>
