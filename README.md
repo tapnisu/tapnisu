@@ -1,11 +1,11 @@
 <h2 align="center">Friends</h2>
 <p align="center">
 <a href="https://github.com/askiphy"><img src="https://img.shields.io/badge/-Sergey%20Fomchukov-000000?style=for-the-badge" alt="@askiphy"></a>
-<a href="https://github.com/astrofox09"><img src="https://img.shields.io/badge/-astrofox09-000000?style=for-the-badge" alt="@astrofox09"></a>
+<a href="https://github.com/mckoda09"><img src="https://img.shields.io/badge/-mckoda09-000000?style=for-the-badge" alt="@mckoda09"></a>
 <a href="https://github.com/itsLameni"><img src="https://img.shields.io/badge/-Evgeny-000000?style=for-the-badge" alt="@Evgeny"></a> 
 <a href="https://github.com/orzklv"><img src="https://img.shields.io/badge/-Sokhibjon%20Orzikulov-000000?style=for-the-badge" alt="@Yūri Katsuki"></a>
 <a href="https://github.com/chelbaev-danil"><img src="https://img.shields.io/badge/-chelbaev%20danil-000000?style=for-the-badge" alt="@chelbaev-danil"></a>
-<a href="https://github.com/triistam"><img src="https://img.shields.io/badge/-Triistam-000000?style=for-the-badge" alt="@triistam"></a>
+<a href="https://github.com/akumarujon"><img src="https://img.shields.io/badge/-Akumarujon-000000?style=for-the-badge" alt="@akumarujon"></a>
 </p>
 
 <h2 align="center">Tools</h2>
