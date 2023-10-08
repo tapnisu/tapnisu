@@ -20,7 +20,7 @@
 <p align="center">
 <a href="https://tapni.su"><img src="https://img.shields.io/badge/-tapni.su-000000?style=for-the-badge&logo=nextdotjs" alt="Website"></a>
 <a href="https://tapni.su/telegram"><img src="https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram" alt="Telegram"></a>
-<a href="https://tapni.su/twitter"><img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=Twitter" alt="Twitter"></a>
+<a href="https://tapni.su/x"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=X" alt="X"></a>
 <a href="https://tapni.su/discord"><img src="https://img.shields.io/badge/-Discord:%20tapnisu-000000?style=for-the-badge&logo=Discord" alt="Discord"></a>
 <a href="https://tapni.su/email"><img src="https://img.shields.io/badge/-Mail-000000?style=for-the-badge&logo=gmail" alt="Mail"></a>
 </p>
