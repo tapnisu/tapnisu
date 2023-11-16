@@ -8,14 +8,6 @@
 <a href="https://github.com/akumarujon"><img src="https://img.shields.io/badge/-Akumarujon-000000?style=for-the-badge" alt="@akumarujon"></a>
 </p>
 
-<h2 align="center">Tools</h2>
-<p align="center">
-<img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=Rust" alt="Rust">
-<img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=TypeScript" alt="TypeScript">
-<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs" alt="Next.js">
-<img src="https://img.shields.io/badge/-Tailwind%20CSS-000000?style=for-the-badge&logo=tailwindcss" alt="tailwindcss">
-</p>
-
 <h2 align="center">Contact me</h2>
 <p align="center">
 <a href="https://tapni.su"><img src="https://img.shields.io/badge/-tapni.su-000000?style=for-the-badge&logo=nextdotjs" alt="Website"></a>
